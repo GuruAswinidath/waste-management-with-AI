@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Builds
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Data / outputs
+sample_videos/
+exports/
+
+# TensorFlow / Keras
+*.h5
+*.hdf5
+*.ckpt
+saved_models/
+
+# Images (generated)
+*.png
+*.jpg
+*.jpeg
+*.bmp
+
